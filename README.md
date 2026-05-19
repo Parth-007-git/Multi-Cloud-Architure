@@ -73,3 +73,4 @@ https://github.com/Parth-007-git/Multi-Cloud-Architure/issues/4
 
 https://github.com/Parth-007-git/Multi-Cloud-Architure/issues/5
 
+<img width="810" height="1600" alt="Image" src="https://github.com/user-attachments/assets/344f8c10-8268-45f0-addf-bbf09b9262a4" />
