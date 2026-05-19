@@ -71,4 +71,5 @@ https://github.com/Parth-007-git/Multi-Cloud-Architure/issues/3
 
 https://github.com/Parth-007-git/Multi-Cloud-Architure/issues/4
 
+https://github.com/Parth-007-git/Multi-Cloud-Architure/issues/5
 
